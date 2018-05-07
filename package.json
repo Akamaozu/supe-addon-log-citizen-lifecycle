@@ -1,0 +1,25 @@
+{
+  "name": "supe-addon-log-citizen-lifecycle",
+  "version": "1.0.0",
+  "description": "Log citizen start-ups, shutdowns, crashes and overcrashes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akamaozu/supe-addon-log-citizen-lifecycle.git"
+  },
+  "keywords": [
+    "supe",
+    "addon",
+    "logging"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akamaozu/supe-addon-log-citizen-lifecycle/issues"
+  },
+  "homepage": "https://github.com/Akamaozu/supe-addon-log-citizen-lifecycle#readme"
+}
